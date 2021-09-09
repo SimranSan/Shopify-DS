@@ -26,3 +26,4 @@ INNER JOIN Products ON OrderDetails.ProductID=Products.ProductID
 WHERE Country = 'Germany'
 GROUP BY ProductName
 ORDER BY TotalOrdered DESC LIMIT 1;
+
