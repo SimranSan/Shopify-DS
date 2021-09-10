@@ -14,7 +14,7 @@ c. What is its value?
 
 AOV = 3145.13 without any modifications to dataset
 
-**MOV = 284.0 without any modifications to dataset**
+**MOV = 284.0 without any modifications to dataset** (suggested metric)
 
 AOV = 293.72 with outliers removed from dataset
 
