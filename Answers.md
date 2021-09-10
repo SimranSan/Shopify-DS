@@ -13,8 +13,11 @@ Instead of AOV, the median order value (MOV) would be a better metric to track d
 c. What is its value?
 
 AOV = 3145.13 without any modifications to dataset
+
 **MOV = 284.0 without any modifications to dataset**
+
 AOV = 293.72 with outliers removed from dataset
+
 AOV = 293.44 with outliers replaced with median
 
 
